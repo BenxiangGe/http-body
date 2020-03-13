@@ -27,4 +27,4 @@ categories = ["web-programming"]
 
 [dependencies]
 bytes = "0.5"
-http = "0.2"
+http = { git = "https://github.com/BenxiangGe/http.git", version = "0.2" }
